@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\асд\vs\consoleapplication2\consoleapplication2\source.cpp(9): warning C4101: B: неиспользованная локальная переменная
+  ConsoleApplication2.vcxproj -> E:\АСД\VS\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> E:\АСД\VS\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)

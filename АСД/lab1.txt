@@ -1,0 +1,28 @@
+#include<iostream>
+using namespace std;
+void insertion_sort(int*A);
+const int n = 10;
+void main()
+{
+	int A[n]{7, 9, 3, 8, 1, 4, 5, 6, 2, 10 };
+	insertion_sort(A);
+	for (int x = 0; x < n; x++)
+		cout << A[x] << " ";
+	cin.get();
+	cin.get();
+}
+void insertion_sort(int *A)
+{
+	int key, i;
+	for (int j = 1; j < n; j++)
+	{
+		key = A[j];
+		i = j - 1;
+		while ((i >= 0) && (A[i]>key))
+		{
+			A[i + 1] = A[i];
+			i -= 1;
+		}
+		A[i + 1] = key;
+	}
+}

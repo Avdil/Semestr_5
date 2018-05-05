@@ -1,0 +1,5 @@
+﻿  Z1.cpp
+e:\асд\vs\consoleapplication1\consoleapplication1\z1.cpp(26): warning C4101: first: неиспользованная локальная переменная
+e:\асд\vs\consoleapplication1\consoleapplication1\z1.cpp(27): warning C4101: last: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> E:\АСД\VS\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> E:\АСД\VS\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
